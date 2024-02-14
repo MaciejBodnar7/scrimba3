@@ -28,12 +28,17 @@ a {
   color: #ef5839;
 }
 
+.boldp {
+  font-weight: bold;
+}
+
 h2 {
   font-size: 24px;
   margin: 50px 50px 20px 50px;
   color: #ef5839;
 }
 
+/* Section1 */
 .container1 p {
   margin: 25px 50px 50px;
 }
@@ -45,10 +50,6 @@ h2 {
 
 .para1 {
   margin-top: 25px;
-}
-
-.boldp {
-  font-weight: bold;
 }
 
 /* Section2 */
@@ -68,6 +69,7 @@ h2 {
   color: #ef5839;
 }
 
+/* Button */
 .btn-margin {
   margin: 0 0 0 50px;
 }
