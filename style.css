@@ -44,8 +44,9 @@ h2 {
 .container-1,
 .container-2,
 .container-h {
-  width: 620px;
+  width: 90%;
   margin: 0 auto;
+  max-width: 620px;
 }
 /* Section2 */
 .sec-2 {
